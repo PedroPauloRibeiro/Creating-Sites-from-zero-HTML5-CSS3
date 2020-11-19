@@ -3,7 +3,7 @@ Course Creating sites from zero.
 All the knowledge and code that the couser gave me in here.
 Criando sites do Zero - HTML5 e CSS3: https://www.udemy.com/course/curso-html-basico/
 
-css-externo
+<css-externo>
     bordas.html
     css_externo.html
     css_externo2.html
@@ -18,19 +18,19 @@ css-externo
     span-div.html
     estilo.css
 
-Projeto Final
+<Projeto Final>
     contato.html
     index.html
     quem-somos.html
     
-Projeto Site
+<Projeto Site>
     caracteres_especiais.html
     contato.html
     formularios.html
     index.html
     tabelas.html
     
-Projeto Web
+<Projeto Web>
     index.html
     bootstrap.css
     bootstrap.css.map
