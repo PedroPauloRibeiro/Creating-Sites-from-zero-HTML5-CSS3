@@ -1,4 +1,6 @@
 # HTML5-CSS3
-Here you gona find my files that might content study records and work features.
+Course Creating sites from zero.
+Final task!
+It was a really good course, that show all steps to code sites.
 
 
